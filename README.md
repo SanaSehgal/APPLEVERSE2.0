@@ -392,6 +392,15 @@ The Apple model includes comprehensive fields for:
   updatedAt: Date
 }
 ```
+## Project Origin & Credits
+
+This project was originally developed as a group academic project.
+This fork represents my independent extensions, improvements, and
+additional features built after the course completion.
+
+Original repository:
+https://github.com/damnambam/FINALAPPLEVERSE
+
 
 ## 🧪 Testing
 
@@ -432,4 +441,5 @@ For support, questions, or contributions:
 
 
 ---
+
 
